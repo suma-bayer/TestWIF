@@ -1,0 +1,6 @@
+config {
+  type: "view",
+  name: "poc_view"
+}
+
+SELECT 1 as test_id, "Developer Connect Success" as status
